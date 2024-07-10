@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Jennifer, a creative and enthusiastic Frontend Developer who recently graduated with a degree in Frontend Development. 
+### I'm Jennifer, a creative and enthusiastic Frontend Developer<br /> who recently graduated with a degree in Frontend Development. 
 
 #### Skills 👩‍💻
 🌟 Javascript/Typescript<br />
