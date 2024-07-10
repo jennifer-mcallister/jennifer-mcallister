@@ -14,4 +14,4 @@
 🌱 Currently developing my skills in Next.js and GSAP<br />
 📫 How to reach me: [Me@Linkedin](https://www.linkedin.com/in/jennifer-mcallister-44153a16b/)<br />
 
-⚡ Fun fact: When compared to the Milky Way a cat is almost the same size as the moon<br />
+🎃 Fun fact: When compared to the Milky Way a cat is almost the same size as the moon <br />
