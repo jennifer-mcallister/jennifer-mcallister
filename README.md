@@ -2,13 +2,13 @@
 ### I'm Jennifer, a creative and enthusiastic frontend developer who recently graduated with a degree in Frontend Development. 
 
 #### Skills 👩‍💻
-🌟 Javascript/Typescript
-🌟 React
-🌟 Vue 3
-🌟 CSS
-🌟 HTML
-🌟 Styled components
-⚡ And many more..
+🌟 Javascript/Typescript<br />
+🌟 React<br />
+🌟 Vue 3<br />
+🌟 CSS<br />
+🌟 HTML<br />
+🌟 Styled components<br />
+⚡ And many more..<br />
 
 🔭 I'm currently developing a website with [Carolina Warntorp](https://github.com/Carowa27) for Hubnet, a YouTube community focused on content creation within Star Citizen<br />
 🌱 I’m currently developing my skills in Next.js and GSAP<br />
